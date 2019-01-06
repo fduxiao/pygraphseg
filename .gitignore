@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Jetbrains IDE
+/.idea
+
+# cython compiled c files
+pygraphseg/pygraphseg.c
+pygraphseg/universe.c
